@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<Locations >
+  <Project >
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>/home/jano/prog/bug_bigfloat_adatoml/build.gpr</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 1" line=" 1" >
+      <vfs_project>/home/jano/prog/bug_bigfloat_adatoml/bug_bigfloat_adatoml.gpr</vfs_project>
+      <vfs_file>/home/jano/prog/bug_bigfloat_adatoml/src/bug_bigfloat_adatoml.adb</vfs_file>
+    </file_marker>
+  </Project>
+</Locations>

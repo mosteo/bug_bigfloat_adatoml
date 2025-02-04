@@ -1,0 +1,3 @@
+[submodule "ada-toml"]
+	path = ada-toml
+	url = https://github.com/pmderodat/ada-toml/
